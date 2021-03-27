@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BethanysPieShop": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
