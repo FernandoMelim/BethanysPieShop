@@ -8817,11 +8817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\6104921\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Curso .net Core\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectUniqueName": "C:\\Users\\6104921\\OneDrive - Thomson Reuters Incorporated\\Desktop\\rede\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
       "projectName": "BethanysPieShop",
-      "projectPath": "C:\\Users\\6104921\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Curso .net Core\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectPath": "C:\\Users\\6104921\\OneDrive - Thomson Reuters Incorporated\\Desktop\\rede\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
       "packagesPath": "C:\\Users\\6104921\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\6104921\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Curso .net Core\\BethanysPieShop\\BethanysPieShop\\obj\\",
+      "outputPath": "C:\\Users\\6104921\\OneDrive - Thomson Reuters Incorporated\\Desktop\\rede\\BethanysPieShop\\BethanysPieShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8895,7 +8895,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
       }
     }
   }

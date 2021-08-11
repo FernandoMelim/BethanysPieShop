@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zL2xI/7+s+6jdczthJPmqPB/vDb3q9te87pVZzlGyHhIaP5fl7mNWVcuwaSrrXfHX5RktvSMzX4mZ2fb48eCyA==",
+  "dgSpecHash": "geHVTyp3cVQf7mgMWM3woMPczDC+sl1u6SlDpAutbdx/K67caz067CEo9w77rFLTmSk/qBinUkf1cuNhmtFJog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\6104921\\OneDrive - Thomson Reuters Incorporated\\Desktop\\Curso .net Core\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+  "projectFilePath": "C:\\Users\\6104921\\OneDrive - Thomson Reuters Incorporated\\Desktop\\rede\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\6104921\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.13\\microsoft.aspnetcore.cryptography.internal.3.1.13.nupkg.sha512",
     "C:\\Users\\6104921\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.13\\microsoft.aspnetcore.cryptography.keyderivation.3.1.13.nupkg.sha512",
